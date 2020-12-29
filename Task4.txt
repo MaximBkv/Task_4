@@ -1,0 +1,4 @@
+    df     dfgdfg      df    asd    df
+Delete last word :          dfgdfg          asd    
+Without spaces: dfgdfg asd
+Delete last Letter: dfgdf as
